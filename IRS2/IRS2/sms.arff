@@ -1,0 +1,2151 @@
+@relation FAQ
+@attribute id string
+@attribute text string
+@attribute class {'CAREER','AGRICULTURE','NONE','HEALTH','INSURANCE','BANK','INDIAN','LOAN','GK','SPORTS','TELECOMMUNICATION','TOURISM','INTERNAL','PERSONALITY','RECIPES','VISA','WEB'}
+@data
+
+"ENG_5"," carier conselling sessionss confidensial","CAREER"
+
+"ENG_6"," whr info abt pesticide estb reg rep","AGRICULTURE"
+
+"ENG_7"," gimme info abt bulk repakaging pesticides","AGRICULTURE"
+
+"ENG_8"," naitural phertilizar 1","NONE"
+
+"ENG_9"," scpe 4 aggri tech","NONE"
+
+"ENG_10"," natrl frtlzrs avlble","NONE"
+
+"ENG_11"," precautns necc 2 store paddy","AGRICULTURE"
+
+"ENG_12"," grain cltvated tmlnadu","NONE"
+
+"ENG_13"," whch fruit fmous krnataka","NONE"
+
+"ENG_14"," online cours thr soil phys deg","AGRICULTURE"
+
+"ENG_15"," whats trtmnt pox","HEALTH"
+
+"ENG_16"," hows smallpox sprd","HEALTH"
+
+"ENG_17"," smallpox infectituous","HEALTH"
+
+"ENG_18"," smallpox mean immune life","HEALTH"
+
+"ENG_19"," home insurance valid wife coachin class","INSURANCE"
+
+"ENG_20"," bldg insured sociaty needa insurance","INSURANCE"
+
+"ENG_21"," livin rent ya insurance","INSURANCE"
+
+"ENG_22"," ya increese total amt insurance","INSURANCE"
+
+"ENG_23"," wats reeimbursmant claim","INSURANCE"
+
+"ENG_24"," concessions provided retail loans","BANK"
+
+"ENG_25"," vats auto sweep","BANK"
+
+"ENG_26"," desc core power","BANK"
+
+"ENG_27"," draft allowed 2 months salary?","BANK"
+
+"ENG_28"," wats reimbursement current acc","BANK"
+
+"ENG_29"," othr indians else buy property","BANK"
+
+"ENG_30"," wt defn nri","BANK"
+
+"ENG_31"," priod hlth insrnce","INSURANCE"
+
+"ENG_32"," cash fac bill amt ok","INSURANCE"
+
+"ENG_33"," ya assst gettin cash fac","INSURANCE"
+
+"ENG_34"," irctc mobile shd register","INDIAN"
+
+"ENG_35"," concessions thatkal travelers","INDIAN"
+
+"ENG_36"," 2 pnr paying","INDIAN"
+
+"ENG_37"," 2 downld irctc mobile","INDIAN"
+
+"ENG_38"," 2 buy season tkts","NONE"
+
+"ENG_39"," oftn career counsellars meet","CAREER"
+
+"ENG_40"," abt tele based counseling","CAREER"
+
+"ENG_41"," sum 1 write resume","CAREER"
+
+"ENG_42"," job placement","CAREER"
+
+"ENG_43"," career sassons confidantal","CAREER"
+
+"ENG_44"," health insurance able career counsalling","CAREER"
+
+"ENG_45"," deduct tax returns pl career counsalling sessons","CAREER"
+
+"ENG_46"," possibal reschedule cancel counsling session","CAREER"
+
+"ENG_47"," wt payment methods","INDIAN"
+
+"ENG_48"," special trains 4 dwali","NONE"
+
+"ENG_49"," hud subord claim mortgager whosa defaulter qualifies fora modification","LOAN"
+
+"ENG_50"," shld mortgagees perform escrow analysis completing loan modification","LOAN"
+
+"ENG_51"," am unemployed spouse employed qualify loan modification names mortgage","LOAN"
+
+"ENG_52"," im havin probs appraisal va help","LOAN"
+
+"ENG_53"," va help complaint items wit buildar","LOAN"
+
+"ENG_54"," lender collectin taxes insurance?","LOAN"
+
+"ENG_55"," nat flowr italy","GK"
+
+"ENG_56"," natl flower china","GK"
+
+"ENG_57"," perm sec saarc loc","GK"
+
+"ENG_58"," whch gateway glf iran","GK"
+
+"ENG_59"," whr industrl rev 1st","GK"
+
+"ENG_60"," ven wrld environ day","GK"
+
+"ENG_61"," wats natl flower brits","GK"
+
+"ENG_62"," asia's lrgest shppin mall","GK"
+
+"ENG_63"," whos largets tin producr","GK"
+
+"ENG_64"," country calld land risin sun","GK"
+
+"ENG_65"," topped pga tour earnings 5 yrs 70s","SPORTS"
+
+"ENG_66"," wch person won bak world serie poker tourny","SPORTS"
+
+"ENG_67"," tms nfl afl joined fold 1970","SPORTS"
+
+"ENG_68"," city hosts yrly beanpot tourny college hocky besties","SPORTS"
+
+"ENG_69"," whats ref sayin clasps wrists hocky","SPORTS"
+
+"ENG_70"," hspital chnnai","NONE"
+
+"ENG_71"," antibiotic 4 smllpox","NONE"
+
+"ENG_72"," manipal hosp located","NONE"
+
+"ENG_73"," eye hosp chennai","NONE"
+
+"ENG_74"," 2 hlth tips mobile","NONE"
+
+"ENG_75"," serious pox","HEALTH"
+
+"ENG_76"," causes hepatitis-b","NONE"
+
+"ENG_77"," yng prsn inherited macular degeneration parents shoud areds","SPORTS"
+
+"ENG_78"," wats uplnk dwn lnk commun freq","TELECOMMUNICATION"
+
+"ENG_79"," bst plan std cal","NONE"
+
+"ENG_80"," sms packs","NONE"
+
+"ENG_81"," 2 apply 4 mobile conn","NONE"
+
+"ENG_82"," 2 send fax","NONE"
+
+"ENG_83"," 2 activte gprs","NONE"
+
+"ENG_84"," roamin charge","NONE"
+
+"ENG_85"," prils covrd policy","INSURANCE"
+
+"ENG_86"," proceedeur assessin val home content","INSURANCE"
+
+"ENG_87"," live rent dont insurance rgt","INSURANCE"
+
+"ENG_88"," aiims granted cashless fac","INSURANCE"
+
+"ENG_89"," 2 bsnl conn","TELECOMMUNICATION"
+
+"ENG_90"," forms payment air lines accept","TOURISM"
+
+"ENG_91"," cheaper alternatives air ambulance","TOURISM"
+
+"ENG_92"," insurence covr air ambulance","TOURISM"
+
+"ENG_93"," cost inclusive everythin air trnsprt","TOURISM"
+
+"ENG_94"," wats air ambulance","TOURISM"
+
+"ENG_95"," woulda patient req air ambulance","TOURISM"
+
+"ENG_96"," happns irctmob lock","INDIAN"
+
+"ENG_97"," details thatkal bookin","INDIAN"
+
+"ENG_98"," happen frgot photo id","INDIAN"
+
+"ENG_99"," 2 payment 4 e-tkts","INDIAN"
+
+"ENG_100"," trains frm tpj 2 sbc","NONE"
+
+"ENG_101"," specl trns 4 pongal","NONE"
+
+"ENG_102"," tkt rate 4 pilgrms","NONE"
+
+"ENG_103"," advntgs isdn?","TELECOMMUNICATION"
+
+"ENG_104"," sprte lne fr adsl","TELECOMMUNICATION"
+
+"ENG_105"," ichnge frm 1 brdbnd data rte 2 anthr","TELECOMMUNICATION"
+
+"ENG_106"," max amnt 4 house loan","LOAN"
+
+"ENG_107"," gt dtail trains av pntry crs?","INDIAN"
+
+"ENG_108"," pln journy usng intrnt resrvatns","INDIAN"
+
+"ENG_109"," tatkl bukng?","INDIAN"
+
+"ENG_110"," wil gt pnr onc pymnt made?","INDIAN"
+
+"ENG_111"," vats veteran troubal replaying loan","LOAN"
+
+"ENG_112"," ya 2 purchase va prop","LOAN"
+
+"ENG_113"," wers lst va homes sale","LOAN"
+
+"ENG_114"," ya ans qns relatd proprty","LOAN"
+
+"ENG_115"," veteran purchase va owned prop","LOAN"
+
+"ENG_116"," va finance va owned prop purchase","LOAN"
+
+"ENG_117"," dna profilng?","HEALTH"
+
+"ENG_118"," der rsk hivtrnsmission aving tattoo, durng bdy piercng visting barber","HEALTH"
+
+"ENG_119"," dna profilng wats it?","HEALTH"
+
+"ENG_120"," benafeets dna profilng?","HEALTH"
+
+"ENG_121"," whos shortstop holds records games played major league incl assists dbl plays","SPORTS"
+
+"ENG_122"," team wn wrld cup lst yr","NONE"
+
+"ENG_123"," techniques dna profilng?","HEALTH"
+
+"ENG_124"," pirate exctly 3000 career hits dyin crash","SPORTS"
+
+"ENG_125"," seasons gehrig play game inn","SPORTS"
+
+"ENG_126"," seasons lou gehreg play innings game","SPORTS"
+
+"ENG_127"," buy proprty india","BANK"
+
+"ENG_128"," typs pnsions cppc hndle","BANK"
+
+"ENG_129"," frgt atm pin whle trvlng?","NONE"
+
+"ENG_130"," chrgs paid wile sbmtin form 49a","NONE"
+
+"ENG_131"," cost submitin form 49a","NONE"
+
+"ENG_132"," paid wile sbmtin form 49a","NONE"
+
+"ENG_133"," payment form 49a","NONE"
+
+"ENG_134"," submission charges form 49a","NONE"
+
+"ENG_135"," ya getta bsnl conn","TELECOMMUNICATION"
+
+"ENG_136"," needa bsnl conn help","TELECOMMUNICATION"
+
+"ENG_137"," bsnl connection tell ya","TELECOMMUNICATION"
+
+"ENG_138"," geta bsnl connexio","TELECOMMUNICATION"
+
+"ENG_139"," connexion bsnl","TELECOMMUNICATION"
+
+"ENG_140"," hapns shift house telecom","TELECOMMUNICATION"
+
+"ENG_141"," upload","TELECOMMUNICATION"
+
+"ENG_142"," upload","TELECOMMUNICATION"
+
+"ENG_143"," srvices ya offr medical trnsport","TOURISM"
+
+"ENG_144"," happns names list evn thou bookin","TOURISM"
+
+"ENG_145"," name sum famous teempal gujju land","NONE"
+
+"ENG_146"," mak bookin outside country","TOURISM"
+
+"ENG_147"," chennai tirupati","TOURISM"
+
+"ENG_148"," hows udaipur visitin","TOURISM"
+
+"ENG_149"," tell shortest dist trivandrum tiruchur","TOURISM"
+
+"ENG_150"," maps media egypt","TOURISM"
+
+"ENG_151"," tailor tours","TOURISM"
+
+"ENG_152"," immunizations visitin india","TOURISM"
+
+"ENG_153"," experience india poss","TOURISM"
+
+"ENG_154"," photography restrictions india exist not?","TOURISM"
+
+"ENG_155"," 2 info abt transprtn pesticides","AGRICULTURE"
+
+"ENG_156"," biotech benft agro ecnmy","AGRICULTURE"
+
+"ENG_157"," gldn rice","AGRICULTURE"
+
+"ENG_158"," strt agri biz","AGRICULTURE"
+
+"ENG_159"," csp","NONE"
+
+"ENG_160"," typ acc avl","BANK"
+
+"ENG_161"," intrst price","BANK"
+
+"ENG_162"," max cash withdrwl lmt/day","NONE"
+
+"ENG_163"," 2 trnsmt tv lng dist coverage","TELECOMMUNICATION"
+
+"ENG_164"," signal cdng decodng","TELECOMMUNICATION"
+
+"ENG_165"," adsl faster dialup","TELECOMMUNICATION"
+
+"ENG_166"," iz cst career cnsling","CAREER"
+
+"ENG_167"," answer intview ques","CAREER"
+
+"ENG_168"," becum pilot b.sc maths","CAREER"
+
+"ENG_169"," m.tech bca mba","CAREER"
+
+"ENG_170"," jamaica exprt mainly","GK"
+
+"ENG_171"," whch lnd whte elephnts","GK"
+
+"ENG_172"," iz ceo google","GK"
+
+"ENG_173"," sgnd nuclr deal wid iran","GK"
+
+"ENG_174"," country prdcs 1/3 teak wrld","GK"
+
+"ENG_175"," mch ds cst borrow mat","LOAN"
+
+"ENG_176"," docs req fr edu loan","LOAN"
+
+"ENG_177"," udaipur gd 2 vist","TOURISM"
+
+"ENG_178"," 2 bk flyt","TOURISM"
+
+"ENG_179"," carry pets flyt","TOURISM"
+
+"ENG_180"," won bk 2 bk poker wrld pokr trnmnt","SPORTS"
+
+"ENG_181"," wn 4 grand slams 4 time","SPORTS"
+
+"ENG_182"," cosmetic trtmnt cvrd insrnce","INSURANCE"
+
+"ENG_183"," hw'll claim pymnt","INSURANCE"
+
+"ENG_184"," wts cashless fclty","INSURANCE"
+
+"ENG_185"," aggri bio technology","AGRICULTURE"
+
+"ENG_186"," fertilizers rlsed 2011","NONE"
+
+"ENG_187"," frmrs adopted crop varieties dev using biotech","AGRICULTURE"
+
+"ENG_188"," wt soil testin","AGRICULTURE"
+
+"ENG_189"," whr fertilzer pesticide","AGRICULTURE"
+
+"ENG_190"," whr info fertilzier","AGRICULTURE"
+
+"ENG_191"," ya tell whr agri machinery","AGRICULTURE"
+
+"ENG_192"," wats composting","AGRICULTURE"
+
+"ENG_193"," 2 online shoppin","BANK"
+
+"ENG_194"," bank givs low intrst 4 loans","BANK"
+
+"ENG_195"," bank prvides edu loans","BANK"
+
+"ENG_196"," 2 chnge atm pin","BANK"
+
+"ENG_197"," list atm centers chennai","BANK"
+
+"ENG_198"," prcedre 4 applyin crdit card","BANK"
+
+"ENG_199"," 2 deactivte lost atm crd","BANK"
+
+"ENG_200"," ntfs","BANK"
+
+"ENG_201"," lst jobs avail","CAREER"
+
+"ENG_202"," 2 writ proffessional resume","CAREER"
+
+"ENG_203"," wats effective rsume","CAREER"
+
+"ENG_204"," dos bng therapy affect counseling","CAREER"
+
+"ENG_205"," tackle tough qns","CAREER"
+
+"ENG_206"," common career soluns helped clients tackle","CAREER"
+
+"ENG_207"," exp career counselling process","CAREER"
+
+"ENG_208"," career counselling process goin 2","CAREER"
+
+"ENG_209"," captal australia","NONE"
+
+"ENG_210"," clled silicon city india","NONE"
+
+"ENG_211"," wrld war1 strted","NONE"
+
+"ENG_212"," india","NONE"
+
+"ENG_213"," bst novel 2011","NONE"
+
+"ENG_214"," rhmbus","NONE"
+
+"ENG_215"," squ chess board","NONE"
+
+"ENG_216"," frst indian 2 2 space","GK"
+
+"ENG_217"," bst hspital chennai","HEALTH"
+
+"ENG_218"," 2 prevent tb","HEALTH"
+
+"ENG_219"," bst medicne 4 cold","HEALTH"
+
+"ENG_220"," wr fnd info abt fertlzrs?","AGRICULTURE"
+
+"ENG_221"," agrcltrl biotechlg?","AGRICULTURE"
+
+"ENG_222"," rsks gntc engg?","AGRICULTURE"
+
+"ENG_223"," shud spacin btw trees","AGRICULTURE"
+
+"ENG_224"," 2 enrl 4 skul agrcltur prog","AGRICULTURE"
+
+"ENG_225"," due dat gon whr submit form","AGRICULTURE"
+
+"ENG_226"," wch agri products certifid organic","AGRICULTURE"
+
+"ENG_227"," terminator tech means","AGRICULTURE"
+
+"ENG_228"," biotech grad fr phd bio sci","AGRICULTURE"
+
+"ENG_229"," whom cntct report grin house gas emision","AGRICULTURE"
+
+"ENG_230"," am returning india, retain assets us.","BANK"
+
+"ENG_231"," wt ur banks capabilities","BANK"
+
+"ENG_232"," i'm citizen acuire bunglow india gift","BANK"
+
+"ENG_233"," dnt submit life cert nov abt pension.","BANK"
+
+"ENG_234"," am pensioner relief frm tax, whr submit investmnt docs","NONE"
+
+"ENG_235"," am 12th pass frm ignou, wch lang shd learn othr thn eng","CAREER"
+
+"ENG_236"," wt universities offring mastr degree aftr bmm","CAREER"
+
+"ENG_237"," hv ca mba sapfi hv 20 yr exp. wt job opprtunitz abroad","CAREER"
+
+"ENG_238"," wt sub msc maths wch universities fr specialization","CAREER"
+
+"ENG_239"," deletd confirmation email webinar, nxt.","CAREER"
+
+"ENG_240"," country wid popultion density","GK"
+
+"ENG_241"," whoz assasinator john kennedy","GK"
+
+"ENG_242"," topper forbes billionaire university lst","GK"
+
+"ENG_243"," whr vesuvius located","NONE"
+
+"ENG_244"," name 1st indian navy chief vice admirl","GK"
+
+"ENG_245"," wtz impct stericycle helth","HEALTH"
+
+"ENG_246"," ulcer causd alcohol","HEALTH"
+
+"ENG_247"," i'm exposd hbv, shd","HEALTH"
+
+"ENG_248"," der tretmnt fr bactril meningits","HEALTH"
+
+"ENG_249"," levl anti oxidnt zn gud nt","HEALTH"
+
+"ENG_250"," wtz cashles claim","INSURANCE"
+
+"ENG_251"," health chk coverd dis polcy","INSURANCE"
+
+"ENG_252"," buildng insured, insurnce","INSURANCE"
+
+"ENG_253"," co paymnt means","INSURANCE"
+
+"ENG_254"," whr sbmt claim","INSURANCE"
+
+"ENG_255"," activt irctc mobile","INDIAN"
+
+"ENG_256"," tell frnds abt irctc mobile","INDIAN"
+
+"ENG_257"," wt tkt cancel chrgs","INDIAN"
+
+"ENG_258"," fr tkt delivry wt shd provided courier","INDIAN"
+
+"ENG_259"," wt dnt plan jurney advnce","INDIAN"
+
+"ENG_260"," wt borow frm usf libraris","LOAN"
+
+"ENG_261"," widow vetrn home lon","NONE"
+
+"ENG_262"," ill article arived","NONE"
+
+"ENG_263"," ill rqst diffrnt frm regulr","NONE"
+
+"ENG_264"," tell low studnt loan paymnt avlble","NONE"
+
+"ENG_265"," beanpot turnamnt hostd ct","SPORTS"
+
+"ENG_266"," winner 6 pga playr yr","SPORTS"
+
+"ENG_267"," 1968 womn gold medlist","SPORTS"
+
+"ENG_268"," wtz woman sport playd summr olympcs 96","SPORTS"
+
+"ENG_269"," mny ebola victms die 2 days","SPORTS"
+
+"ENG_270"," laser stimultn wrks","TELECOMMUNICATION"
+
+"ENG_271"," los wrks fr 3050km","TELECOMMUNICATION"
+
+"ENG_272"," fm prefrd fr music trnsmsion","TELECOMMUNICATION"
+
+"ENG_273"," efect qlty wavlngth fibre optic cable","TELECOMMUNICATION"
+
+"ENG_274"," ethernet gud","TELECOMMUNICATION"
+
+"ENG_275"," bargn wid vndrs","TOURISM"
+
+"ENG_276"," whr egypt maps","TOURISM"
+
+"ENG_277"," sugst rstrnts mumbai","TOURISM"
+
+"ENG_278"," whtz proces cancl tkt","TOURISM"
+
+"ENG_279"," bedside medcl trnsprt means wt","TOURISM"
+
+"ENG_280"," food producd biotechnolgy safe 2 eat?","AGRICULTURE"
+
+"ENG_281"," vts process soil testing?","AGRICULTURE"
+
+"ENG_282"," frm whr sud purchase frtilizrs?","AGRICULTURE"
+
+"ENG_283"," frm whr 2 knw abt frtilizrs?","AGRICULTURE"
+
+"ENG_284"," frm whr gt info abt trnsportatn frtilizrs?","AGRICULTURE"
+
+"ENG_285"," vt benefits csp?","BANK"
+
+"ENG_286"," mny typs accnts thr 4 cstomers?","BANK"
+
+"ENG_287"," salary accnt undr csp?","NONE"
+
+"ENG_288"," vt documnts requrd 2 salary accnt?","BANK"
+
+"ENG_289"," vt multicity cheque?","BANK"
+
+"ENG_290"," vt services avialable 4 career counslng?","CAREER"
+
+"ENG_291"," cost 4 career couslng?","CAREER"
+
+"ENG_292"," provide ny free career counslng?","CAREER"
+
+"ENG_293"," vt kinds jobs thr 4 graduats?","CAREER"
+
+"ENG_294"," vt placmnt services?","CAREER"
+
+"ENG_295"," vich animal hs white blood?","GK"
+
+"ENG_296"," vich river world?","GK"
+
+"ENG_297"," vich highgest montane world?","GK"
+
+"ENG_298"," vich biggst desrt world?","GK"
+
+"ENG_299"," largest ocean world?","GK"
+
+"ENG_300"," vt diffrnt additives tht added wine?","HEALTH"
+
+"ENG_301"," vt health effects stericycle?","HEALTH"
+
+"ENG_302"," alchohl cause ulser?","HEALTH"
+
+"ENG_303"," thr ny benefit drinkng alchohl?","HEALTH"
+
+"ENG_304"," excessive drinng cause canser?","HEALTH"
+
+"ENG_305"," vt diffrnce coinsurance nd copaymnt?","INSURANCE"
+
+"ENG_306"," vts toll free no. compny?","INSURANCE"
+
+"ENG_307"," health tpa?","INSURANCE"
+
+"ENG_308"," vts family floater plan?","INSURANCE"
+
+"ENG_309"," vt co-paymnt?","INSURANCE"
+
+"ENG_310"," vt benefits using irctcmobile?","INDIAN"
+
+"ENG_311"," vt services related tkting provided irctcmobile?","INDIAN"
+
+"ENG_312"," vt steps 4 getng irctcmobile service?","INDIAN"
+
+"ENG_313"," book ticket using irctcmobile service?","INDIAN"
+
+"ENG_314"," cancel ticket irctcmobile?","INDIAN"
+
+"ENG_315"," vt interlibrary loan?","LOAN"
+
+"ENG_316"," apply 4 va gauranteed loan?","LOAN"
+
+"ENG_317"," obtain proof 4 military srvices?","LOAN"
+
+"ENG_318"," wt procedure payoff loan?","LOAN"
+
+"ENG_319"," thr ny penalties 4 overdue items?","LOAN"
+
+"ENG_320"," world's beat cricketer?","SPORTS"
+
+"ENG_321"," top richest players world?","SPORTS"
+
+"ENG_322"," frm whr ms dhoni belong?","SPORTS"
+
+"ENG_323"," vich indian cricketr hs takn hat trik test match?","SPORTS"
+
+"ENG_324"," vt distanc betwn cricket stumps?","SPORTS"
+
+"ENG_325"," vts hot telecom privacy policies?","TELECOMMUNICATION"
+
+"ENG_326"," vt sevices provided hottelecom?","TELECOMMUNICATION"
+
+"ENG_327"," vt master control facility?","TELECOMMUNICATION"
+
+"ENG_328"," vt diffrnce btwn criticl frquncy nd criticl ngle?","TELECOMMUNICATION"
+
+"ENG_329"," speech reproducd receivr?","TELECOMMUNICATION"
+
+"ENG_330"," sud choose india ovr othr destinatn?","TOURISM"
+
+"ENG_331"," 2 bring pets vd us?","TOURISM"
+
+"ENG_332"," thr ny restrictn photography india?","TOURISM"
+
+"ENG_333"," vt major turist india?","TOURISM"
+
+"ENG_334"," ur site accept forien credit cards?","TOURISM"
+
+"ENG_335"," pvt sect forcsts avbl fr immdtly","AGRICULTURE"
+
+"ENG_336"," agricltrl wethr servs","AGRICULTURE"
+
+"ENG_337"," hpns empl fired","AGRICULTURE"
+
+"ENG_338"," orgnc food costly","AGRICULTURE"
+
+"ENG_339"," sbjcts taught online agrcltr prgm","AGRICULTURE"
+
+"ENG_340"," fill appl form 49a","NONE"
+
+"ENG_341"," appl fr pan crd","NONE"
+
+"ENG_342"," reqrd origntng neft tranctn","BANK"
+
+"ENG_343"," prcssng chrgs fr neft trnsctns","BANK"
+
+"ENG_344"," bnk prvd oprtng lese","BANK"
+
+"ENG_345"," sr tell abt soft devl corses rltd java nd web aftr school","CAREER"
+
+"ENG_346"," futr prspcts dong mcm(mstrs cmptr mangmnt syllbus job prspcts","CAREER"
+
+"ENG_347"," aftr bcom accnting","CAREER"
+
+"ENG_348"," btr mba aftr bca mca","CAREER"
+
+"ENG_349"," mdcl transcptn cours","CAREER"
+
+"ENG_350"," mny blcks thr snks ldrs brd","NONE"
+
+"ENG_351"," mny byts megabyte","GK"
+
+"ENG_352"," ehch cntry hs lrgst land","GK"
+
+"ENG_353"," mslm kingdm kerala","GK"
+
+"ENG_354"," whn perl hrbr attckd","NONE"
+
+"ENG_355"," trtmnt smallpox","HEALTH"
+
+"ENG_356"," ppl rcvr frm hepits","NONE"
+
+"ENG_357"," mitochndrl dises","NONE"
+
+"ENG_358"," rsk frm aids","HEALTH"
+
+"ENG_359"," lng hiv srviv bdy","HEALTH"
+
+"ENG_360"," purchs life insrns","INSURANCE"
+
+"ENG_361"," file clim","INSURANCE"
+
+"ENG_362"," life insrns importnt","INSURANCE"
+
+"ENG_363"," avbl divdend optns","INSURANCE"
+
+"ENG_364"," wife chldrn live diff city cvr singl insurnce","INSURANCE"
+
+"ENG_365"," mny itkts str mbl","INDIAN"
+
+"ENG_366"," shld synchrnz irctc mbl","INDIAN"
+
+"ENG_367"," actvt irctc mbl","INDIAN"
+
+"ENG_368"," book tatkl tkt frm intrnt","INDIAN"
+
+"ENG_369"," crdit crd info trns wth irctc mbl safe","INDIAN"
+
+"ENG_370"," whre begn fr intrlibry loan","LOAN"
+
+"ENG_371"," becm sellng brkr","LOAN"
+
+"ENG_372"," penaltes fr late items","NONE"
+
+"ENG_373"," advntgs prsnl loan","NONE"
+
+"ENG_374"," deflt","LOAN"
+
+"ENG_375"," prt eyes affctd catarcts","SPORTS"
+
+"ENG_376"," vtmn nt fnd potato","SPORTS"
+
+"ENG_377"," mahndra sngh dhony mail","SPORTS"
+
+"ENG_378"," wn frst ckt woorld cp","SPORTS"
+
+"ENG_379"," mny islnds indonsa hv","SPORTS"
+
+"ENG_380"," disadvntgs wrld space","TELECOMMUNICATION"
+
+"ENG_381"," gv frqcy uplnk dwnlnk comm","NONE"
+
+"ENG_382"," sbscrb newsltr telcomm","NONE"
+
+"ENG_383"," tv brdcst longr dist lrge cverge","TELECOMMUNICATION"
+
+"ENG_384"," reqrd fr dplx comm using 2 wr ckt","TELECOMMUNICATION"
+
+"ENG_385"," mdcl torism","NONE"
+
+"ENG_386"," shld femle wear egpt","TOURISM"
+
+"ENG_387"," meds bfr visitng india","TOURISM"
+
+"ENG_388"," tirupati chenai","TOURISM"
+
+"ENG_389"," book fliht","TOURISM"
+
+"ENG_390"," psngr concsns","INDIAN"
+
+"ENG_391"," hpns lose mobile","INDIAN"
+
+"ENG_392"," irctc mob","INDIAN"
+
+"ENG_393"," rsrvtn stats tkt","INDIAN"
+
+"ENG_394"," wts rate std menu india rail","INDIAN"
+
+"ENG_395"," risks gentc engg","AGRICULTURE"
+
+"ENG_396"," wts composing","AGRICULTURE"
+
+"ENG_397"," wr fnd info abt cmposting","AGRICULTURE"
+
+"ENG_398"," 2 disps agri plastc","AGRICULTURE"
+
+"ENG_399"," typs farmng india","AGRICULTURE"
+
+"ENG_400"," mch witdrw frm atm pr day","BANK"
+
+"ENG_401"," whts mult ct chq","BANK"
+
+"ENG_402"," hws mode paymnt 4 nri","BANK"
+
+"ENG_403"," nri bring gold ind","BANK"
+
+"ENG_404"," whts projct financ","BANK"
+
+"ENG_405"," career counclng","CAREER"
+
+"ENG_406"," imp doing volntr","CAREER"
+
+"ENG_407"," profsnl resum","CAREER"
+
+"ENG_408"," 2 di aftr 12 frm humanity strem","CAREER"
+
+"ENG_409"," mtech aftr bca?","CAREER"
+
+"ENG_401"," biggst desrt wrld is?","GK"
+
+"ENG_402"," len englsh chanl is?","GK"
+
+"ENG_403"," uno?","GK"
+
+"ENG_404"," inventr bulb?","GK"
+
+"ENG_405"," longst river wrld?","GK"
+
+"ENG_406"," helth efct dioxin?","HEALTH"
+
+"ENG_407"," ther hlth benfits 2 alcohol?","HEALTH"
+
+"ENG_408"," alcohl poisning is, myth real","HEALTH"
+
+"ENG_409"," differnce dental hygienist assistant?","HEALTH"
+
+"ENG_410"," wt symptom smallpox?","HEALTH"
+
+"ENG_411"," famly floater plan?","INSURANCE"
+
+"ENG_412"," whtz cashless claim","INSURANCE"
+
+"ENG_413"," shld buy critcl illness covr","INSURANCE"
+
+"ENG_414"," authorization","INSURANCE"
+
+"ENG_415"," 2 fnd hosptls givn insurnc n/w?","INSURANCE"
+
+"ENG_416"," artcl sent 2 electnicaly","LOAN"
+
+"ENG_417"," 2 speed procss?","LOAN"
+
+"ENG_418"," panelts 4 overdue itms","LOAN"
+
+"ENG_419"," accept ala email req?","LOAN"
+
+"ENG_420"," ther cost 4 intrlib loan?","LOAN"
+
+"ENG_421"," nfl playrs req 2 wear game 4 1st time 1943?","SPORTS"
+
+"ENG_422"," succssfl golfer time?","SPORTS"
+
+"ENG_423"," myo mean mypcrdil?","SPORTS"
+
+"ENG_424"," symbl linkd 2 democratic party 1870 cartoon tomas nast?","SPORTS"
+
+"ENG_425"," song top gun hit 4 berlin?","SPORTS"
+
+"ENG_426"," whr acrobat winzip s/w?","TELECOMMUNICATION"
+
+"ENG_427"," tv transmsn used? fm?","TELECOMMUNICATION"
+
+"ENG_428"," data transmsn recptn using optcl comm?","TELECOMMUNICATION"
+
+"ENG_429"," advntg isdn?","TELECOMMUNICATION"
+
+"ENG_430"," benift adsl?","TELECOMMUNICATION"
+
+"ENG_431"," 2 experinc ind @ best?","TOURISM"
+
+"ENG_432"," ind wher normal snowfall april end?","TOURISM"
+
+"ENG_433"," whtz distanc bet bhimashankar shirdi","TOURISM"
+
+"ENG_434"," change username?","TOURISM"
+
+"ENG_435"," air ambulnc?","TOURISM"
+
+"ENG_436"," ny1 ill","LOAN"
+
+"ENG_437"," aply 4 va guarnted loan?","LOAN"
+
+"ENG_438"," hu nt eligibl 2 ill?","NONE"
+
+"ENG_439"," matrials availbl thru intrlib loan?","NONE"
+
+"ENG_440"," borow textbuks requird 4 clases, thru intrlib loan?","NONE"
+
+"ENG_441"," cntct apolo munich","NONE"
+
+"ENG_442"," dos esy helth policy covr benfts sufrs ilns/disease 
+cntrct injry thru accdnt india outsid india","INSURANCE"
+
+"ENG_443"," wt mnt cshles faclty","INSURANCE"
+
+"ENG_444"," 3 ppl shre aprtmnt ech 1 tak sep hom insurnce polcy","INSURANCE"
+
+"ENG_445"," claim 4 ny patient bil immdtly getin polcy?","INSURANCE"
+
+"ENG_446"," tl nme animl huz blod whit?","GK"
+
+"ENG_447"," rivr caris max qntity water in2 sea is?","GK"
+
+"ENG_448"," uno stnds 4","GK"
+
+"ENG_449"," ny poplrly knwn city","GK"
+
+"ENG_450"," tak apt carer intrst tsts counselin srvics?","CAREER"
+
+"ENG_451"," carer cunslor hlp me?","CAREER"
+
+"ENG_452"," ans tuf intrvw ques?","CAREER"
+
+"ENG_453"," wnt 2 ekt exm.hw apply 4 ekt exm wil hld.in comin yr.
+wt criterea 4 ekt exm 4 engg.","CAREER"
+
+"ENG_454"," am btech instrmntation finl yr stdnt. 
+i lik 2 abt pg progs offrd india","CAREER"
+
+"ENG_455"," irctc mble fr railwy ticktn","INDIAN"
+
+"ENG_456"," gt dtail trains av pntry crs?","INDIAN"
+
+"ENG_457"," pln journy usng intrnt resrvatns","INDIAN"
+
+"ENG_458"," tatkl bukng?","INDIAN"
+
+"ENG_459"," wil gt pnr onc pymnt made?","INDIAN"
+
+"ENG_460"," medcal toursm?","NONE"
+
+"ENG_461"," expctations regrdin tipin","TOURISM"
+
+"ENG_462"," info prvded reliabl","TOURISM"
+
+"ENG_463"," cud ny1 recomend gud guesthous nrth goa","TOURISM"
+
+"ENG_464"," lugag ptents/pasngrs brin","TOURISM"
+
+"ENG_465"," type pymnt mthd tlcmncatn","TELECOMMUNICATION"
+
+"ENG_466"," advntgs isdn?","TELECOMMUNICATION"
+
+"ENG_467"," sprte lne fr adsl","TELECOMMUNICATION"
+
+"ENG_468"," ichnge frm 1 brdbnd data rte 2 anthr","TELECOMMUNICATION"
+
+"ENG_469"," speech rprduced rcver?","TELECOMMUNICATION"
+
+"ENG_470"," huz 1st playr 2 cptain 2 diff nhl champnshp tems","SPORTS"
+
+"ENG_471"," mny dsigntd facetooff spts der hocky rink","SPORTS"
+
+"ENG_472"," nxt crkt t20 wrld cp goin 2b hld?","SPORTS"
+
+"ENG_473"," pt toe gard bat?","SPORTS"
+
+"ENG_474"," hs brian lara evr bwld tst 1day crkt?","SPORTS"
+
+"ENG_475"," possibal 2 device diff computer pvr, dvr, sattellite, sterio, etc.","INTERNAL"
+
+"ENG_476"," wanna cylinder, heads sector info hard drv","INTERNAL"
+
+"ENG_477"," wanna fnd hitachi drive companys","INTERNAL"
+
+"ENG_478"," incompatibal systems hard drv install?","INTERNAL"
+
+"ENG_479"," vy dont pc capacity drv","INTERNAL"
+
+"ENG_480"," am gettin format didnt complete formattin why?","INTERNAL"
+
+"ENG_481"," am gettin "the disk damaged" formattin why?","INTERNAL"
+
+"ENG_482"," scsi drive givin error called "start unit request failure" fix 4","INTERNAL"
+
+"ENG_483"," procejur disconnact usb computar ven dun vit storing stuff","INTERNAL"
+
+"ENG_484"," whys bill hard drvs","INTERNAL"
+
+"ENG_485"," 32 gb clip jumper settin","INTERNAL"
+
+"ENG_486"," happens push button?","INTERNAL"
+
+"ENG_487"," usb cable comes accidentally happens backup?","INTERNAL"
+
+"ENG_488"," scsi drive scsi control","INTERNAL"
+
+"ENG_489"," wont harddrive enhanced sec erase func hdderase","INTERNAL"
+
+"ENG_490"," bulk data encrpton wrk mac apple sys","INTERNAL"
+
+"ENG_491"," du prsnalitie","PERSONALITY"
+
+"ENG_492"," possibal impove personality?","PERSONALITY"
+
+"ENG_493"," larnin english improve personality","PERSONALITY"
+
+"ENG_494"," knowledge 4 personality dev","PERSONALITY"
+
+"ENG_495"," boys grls care looks personality matter intelligence?","PERSONALITY"
+
+"ENG_496"," personality person","PERSONALITY"
+
+"ENG_497"," tell factors describing human personality","PERSONALITY"
+
+"ENG_498"," persons personality dimensions","PERSONALITY"
+
+"ENG_499"," shld 360 feedbak","PERSONALITY"
+
+"ENG_500"," confidential procedure","PERSONALITY"
+
+"ENG_501"," gat recepie alu palak","RECIPES"
+
+"ENG_502"," wanna hot mango chutni tell 2","RECIPES"
+
+"ENG_503"," receepi gobhi manchooriyan","RECIPES"
+
+"ENG_504"," 2 sweet sour mango chutney","RECIPES"
+
+"ENG_505"," bharwa bhindi ingredients","RECIPES"
+
+"ENG_506"," bharwa bengan","RECIPES"
+
+"ENG_507"," rasmalai recipee plesase","RECIPES"
+
+"ENG_508"," rava laddu","RECIPES"
+
+"ENG_509"," kalakand","RECIPES"
+
+"ENG_510"," jalebi tips pl","RECIPES"
+
+"ENG_511"," recipe sweet pongal","NONE"
+
+"ENG_512"," pudina parata","RECIPES"
+
+"ENG_513"," lemon plus chili pickle","RECIPES"
+
+"ENG_514"," prepare hot lemon pickle","RECIPES"
+
+"ENG_515"," coco nut chutny","RECIPES"
+
+"ENG_516"," coco-nut chutnie prepared","RECIPES"
+
+"ENG_517"," tell easy steps coconut chutny","RECIPES"
+
+"ENG_518"," 2 mint chutney","RECIPES"
+
+"ENG_519"," taco bell mexico piza","RECIPES"
+
+"ENG_520"," 2 tacobell meat seasoning","RECIPES"
+
+"ENG_521"," ppl frm countires visa australia","VISA"
+
+"ENG_522"," app visa","VISA"
+
+"ENG_523"," time visa app","VISA"
+
+"ENG_524"," necc xerox copy passpt","VISA"
+
+"ENG_525"," photo copy pass port required keep?","VISA"
+
+"ENG_526"," indian bus visa reqd","VISA"
+
+"ENG_527"," wrk india entr using bussinness visa","VISA"
+
+"ENG_528"," 2 tacobell meat seasoning","NONE"
+
+"ENG_529"," extend indian business visa","VISA"
+
+"ENG_530"," convert tourist visa student visa","VISA"
+
+"ENG_531"," whr 2 apply 2 visa","VISA"
+
+"ENG_532"," student visa times enter country","VISA"
+
+"ENG_533"," 2 pay visa charge","VISA"
+
+"ENG_534"," applicants person submit app","VISA"
+
+"ENG_535"," india's pop","VISA"
+
+"ENG_536"," stage monsoon wintr","VISA"
+
+"ENG_537"," fam mosque delhi","VISA"
+
+"ENG_538"," goa pt india","VISA"
+
+"ENG_539"," name indias capital","VISA"
+
+"ENG_540"," wats indias currency","VISA"
+
+"ENG_541"," handle photos graphics","WEB"
+
+"ENG_542"," design site host elsewhere","WEB"
+
+"ENG_543"," ya flash","WEB"
+
+"ENG_544"," am allowd changes site own","WEB"
+
+"ENG_545"," sample web templates","WEB"
+
+"ENG_546"," 4 domain name secure","WEB"
+
+"ENG_547"," possibal chng passwd domain","WEB"
+
+"ENG_548"," fixed passwd name 2","WEB"
+
+"ENG_549"," expiry domain names","WEB"
+
+"ENG_550"," am allowd change domain pass word","WEB"
+
+"ENG_551"," wats host name","WEB"
+
+"ENG_552"," wats domane lockin","WEB"
+
+"ENG_553"," 2 renew domain name","WEB"
+
+"ENG_554"," reg domain name","WEB"
+
+"ENG_555"," pik domain nam","WEB"
+
+"ENG_556"," wats autorespondr","WEB"
+
+"ENG_557"," wats da resell","WEB"
+
+"ENG_558"," wats cgi acess","WEB"
+
+"ENG_559"," gonna gimme telnet services","WEB"
+
+"ENG_560"," wats ur busines mail service","WEB"
+
+"ENG_561"," ur hostin servic avl int users","WEB"
+
+"ENG_562"," paymnt schemes applicabl","WEB"
+
+"ENG_563"," aplan bigger plan latr","WEB"
+
+"ENG_564"," wats cgi access","WEB"
+
+"ENG_565"," uuse java script page","WEB"
+
+"ENG_566"," company domain name pop acc","WEB"
+
+"ENG_567"," ya control panel linux acc","WEB"
+
+"ENG_568"," wats amt data tr page","WEB"
+
+"ENG_569"," maintain maself set site","WEB"
+
+"ENG_570"," cook taco bells hot taco soce","RECIPES"
+
+"ENG_571"," potato chop cookie","RECIPES"
+
+"ENG_572"," popeye styl dirty rice","RECIPES"
+
+"ENG_573"," ya bake pizza hut crust","RECIPES"
+
+"ENG_574"," ya sambar tasty","RECIPES"
+
+"ENG_575"," rasam masla","RECIPES"
+
+"ENG_576"," tell easy steps mangalore rasam","RECIPES"
+
+"ENG_577"," 2 sambar","RECIPES"
+
+"ENG_578"," easy 2 prep taco bell mexicani piza","RECIPES"
+
+"ENG_579"," elabrate steps 4 tacobell meat seasoning","RECIPES"
+
+"ENG_579"," mangalore rasam reeecip pl","RECIPES"
+
+"ENG_580"," ya gimme recipe green peace skin soup","RECIPES"
+
+"ENG_581"," gimme receepi 4 popeye styl dirty rice","RECIPES"
+
+"ENG_582"," needa bake pizza hut crust","RECIPES"
+
+"ENG_583"," 2 mak sambar mummy","RECIPES"
+
+"ENG_584"," rasam maslas","RECIPES"
+
+"ENG_585"," hows mangalore rasam preparation","RECIPES"
+
+"ENG_586"," sambar recipee","RECIPES"
+
+"ENG_587"," tacobell mexican pizza recipe","RECIPES"
+
+"ENG_588"," pl tell 2 tacobell meat seasoning","RECIPES"
+
+"ENG_589"," wanna mangalore rasam recpe","RECIPES"
+
+"ENG_590"," green pea skin soup method","RECIPES"
+
+"ENG_591"," enable blk data encription hard-drive","INTERNAL"
+
+"ENG_592"," whr 2 buy hard-drive bulk data encrption","INTERNAL"
+
+"ENG_593"," 2 format hard drive 2 mac windows","NONE"
+
+"ENG_594"," 2 format hard drive 2 mac","INTERNAL"
+
+"ENG_595"," wont computer capacity drive","INTERNAL"
+
+"ENG_596"," am gettin messag "format complete" why?","INTERNAL"
+
+"ENG_597"," am gettin messag "disk damaged" formatin?","INTERNAL"
+
+"ENG_598"," whys scsi drive givin error called "start unit request failure"","INTERNAL"
+
+"ENG_599"," remove usb computar aft storing files","INTERNAL"
+
+"ENG_600"," dont bill hard drive","INTERNAL"
+
+"ENG_601"," activt irctc mobile","INDIAN"
+
+"ENG_602"," frnds abt irctc mobile","INDIAN"
+
+"ENG_603"," wt tkt cancel chrgs","INDIAN"
+
+"ENG_604"," fr tkt delivry wt shd provided courier","INDIAN"
+
+"ENG_605"," wt dnt plan jurney advnce","INDIAN"
+
+"ENG_606"," activt irctc mobile","INDIAN"
+
+"ENG_607"," tell frnds abt irctc mobile","INDIAN"
+
+"ENGLISH_608"," am tech comp sc students 2 mke career archeolgy","CAREER"
+
+"ENGLISH_609"," irctcmbl lcked","NONE"
+
+"ENGLISH_610"," whc crckt tm ds brian lara ply 4?","SPORTS"
+
+"ENGLISH_611"," shd synchrnze irctc mble?","NONE"
+
+"ENGLISH_612"," credt crd info irctc mbl safe?","INDIAN"
+
+"ENGLISH_613"," carerr ntwrk link?","CAREER"
+
+"ENGLISH_614"," future job prospets law gradtute esp govt jobs","CAREER"
+
+"ENGLISH_615"," haplogroup genographic prj dffrnt family tree dna?","HEALTH"
+
+"ENGLISH_616"," ds hockey referee mean clasps writs?","SPORTS"
+
+"ENGLISH_617"," am searching job banks gov.job related career? completed bcs 2 exp. rts industries ltd., coimbatore associatehr aparajitha corporate services., coimbatore personnel executive till date.i am pursuing pgdpm ir?","CAREER"
+
+"ENGLISH_618"," chnge irtcmbile pin?","NONE"
+
+"ENGLISH_619"," gt pet insurance residnt canada?","INSURANCE"
+
+"ENGLISH_620"," rgstr ralway tktng servc thru irctc mbble","NONE"
+
+"ENGLISH_621"," whch yr hanging abloshd united kngdm","NONE"
+
+"ENGLISH_622"," pilot aftr opting non-medical strm ?","CAREER"
+
+"ENGLISH_623"," labr union prvde gp insurance","INSURANCE"
+
+"ENGLISH_624"," whn bst time 1st exam?","CAREER"
+
+"ENGLISH_625"," tho frind adsl connection bsnl cant one...why?","TELECOMMUNICATION"
+
+"ENGLISH_626"," tall wtc 9/11 attacls?","NONE"
+
+"ENGLISH_627"," am infectius, im taking antiretroviral drugs 'undetectable' viral load","HEALTH"
+
+"ENGLISH_628"," flu vaccinations pregnancy cause false +ive hivtest results?","HEALTH"
+
+"ENGLISH_629"," nd overseas travel insurance?","NONE"
+
+"ENGLISH_630"," term insrnce?","NONE"
+
+"ENGLISH_631"," placement srvcs?","CAREER"
+
+"ENGLISH_632"," mny penlyt pnts allianz accept business, pvt motor insurcne policy","INSURANCE"
+
+"ENGLISH_633"," team lowsest score odi?","SPORTS"
+
+"ENGLISH_634"," heart attack, cancer, stroke covered hlth insurance plicy ?","INSURANCE"
+
+"ENGLISH_635"," whch jerome jerome novel hs dog called mont morency?","NONE"
+
+"ENGLISH_636"," custom officr airprt","CAREER"
+
+"ENGLISH_637"," insurance company rescinded health insurance polcy. ds tht mn?","INSURANCE"
+
+"ENGLISH_638"," hpens money stolen whn am","INSURANCE"
+
+"ENGLISH_640"," minimum annual income rqrd eligible critical illness insurance ?","INSURANCE"
+
+"ENGLISH_641"," gprs","NONE"
+
+"ENGLISH_642"," cancel tkt refund","NONE"
+
+"ENGLISH_643"," lose gprs connctn aftr entrung detils","NONE"
+
+"ENGLISH_644"," bsnl connction ?","TELECOMMUNICATION"
+
+"ENGLISH_645"," add passnegts pssngr list stred mobile","NONE"
+
+"ENGLISH_647"," whch base ball legaue tm walt disney op control 96 ?","SPORTS"
+
+"ENGLISH_648"," board trn rsrvd coach wtlsted tkt?","NONE"
+
+"ENGLISH_649"," vrial meningitis trtd?","NONE"
+
+"ENGLISH_650"," whch 1st country recognize mexicos independence","SPORTS"
+
+"ENGLISH_651"," nd life insurance","INSURANCE"
+
+"ENGLISH_652"," whch female golfer nick taco?","SPORTS"
+
+"ENGLISH_653"," organic prods free pesticide residue?","SPORTS"
+
+"ENGLISH_654"," worlds crickt player?","SPORTS"
+
+"ENGLISH_655"," details qualifiction position","CAREER"
+
+"ENGLISH_656"," chrges using waiting rly stn?","INDIAN"
+
+"ENGLISH_657"," 1st pm india","GK"
+
+"ENGLISH_658"," climeatolgy recrods discontd","SPORTS"
+
+"ENGLISH_659"," difftne makes cars james bond","NONE"
+
+"ENGLISH_660"," bk circular journey tikts","NONE"
+
+"ENGLISH_661"," einstein maintian diary?","NONE"
+
+"ENGLISH_662"," employer allwed change helth beneift progrme lesser benefits","INSURANCE"
+
+"ENGLISH_663"," einstein 2 swim","GK"
+
+"ENGLISH_664"," shd invest cash policy whn savings rate better?","INSURANCE"
+
+"ENGLISH_665"," whn uk handover hk china?","NONE"
+
+"ENGLISH_666"," add policy details auth bank webiste","INSURANCE"
+
+"ENGLISH_667"," claims 1st year, wanna discontinue policy?","INSURANCE"
+
+"ENGLISH_668"," bld donation increase risk hiv infection?","HEALTH"
+
+"ENGLISH_669"," channle tunnel eruope open?","GK"
+
+"ENGLISH_670"," margert thatcher pm?","GK"
+
+"ENGLISH_671"," whats starting salary range private dental practices mississippi?","HEALTH"
+
+"ENGLISH_672"," employer wrk directly insurance co?","NONE"
+
+"ENGLISH_673"," stay vet?","INSURANCE"
+
+"ENGLISH_674"," medication prescription reads "q.i.d." mean?","SPORTS"
+
+"ENGLISH_675"," policy old, add children","INSURANCE"
+
+"ENGLISH_676"," empolys psychologists?","CAREER"
+
+"ENGLISH_678"," conditions shod abt","INSURANCE"
+
+"ENGLISH_679"," 7th king israel shares name herman melville literary character?","SPORTS"
+
+"ENGLISH_680"," epa hazardous air pollutants area?","HEALTH"
+
+"ENGLISH_681"," blk keys piano have?","GK"
+
+"ENGLISH_682"," govt life insuance schems pay dividends?","INSURANCE"
+
+"ENGLISH_683"," hpns car written","INSURANCE"
+
+"ENGLISH_684"," toe guard bat","SPORTS"
+
+"ENGLISH_685"," 1st govenro geneal free india","GK"
+
+"ENGLISH_686"," indian pm resign completeing term","GK"
+
+"ENGLISH_687"," outfit's national intelligence daily circulation 200?","SPORTS"
+
+"ENGLISH_688"," whats 'cashless' claim?","NONE"
+
+"ENGLISH_689"," whch worlds largets diamond producing country","GK"
+
+"ENGLISH_690"," bee larva chance becoming stops eating royal jelly days?","SPORTS"
+
+"ENGLISH_691"," advantages booking circular journey ticket?","NONE"
+
+"ENGLISH_692"," whch 1st country host modern olympics","GK"
+
+"ENGLISH_693"," pay insurance premiums thry banks servc providers","NONE"
+
+"ENGLISH_695"," insurance broker insurnce agent?","INSURANCE"
+
+"ENGLISH_696"," wine mke sleepy","HEALTH"
+
+"ENG_QUERY_5000"," cl chrgs 4 clng crd","NONE"
+
+"ENG_QUERY_5001"," atl wld clng crd chrgs","NONE"
+
+"ENG_QUERY_5002"," clng chrg 4 artl wrd clng crd","NONE"
+
+"ENG_QUERY_5003"," crd thurg payfone mob","NONE"
+
+"ENG_QUERY_5004"," uz artl wrld clng crd via mb ph","NONE"
+
+"ENG_QUERY_5005"," uz airtel world calln mobile ph","NONE"
+
+"ENG_QUERY_5006"," da chrg 4 cal fwd","NONE"
+
+"ENG_QUERY_5007"," cll frwd chg","NONE"
+
+"ENG_QUERY_5008"," cll div chg","NONE"
+
+"ENG_QUERY_5009"," cll div charg","NONE"
+
+"ENG_QUERY_5010"," 2 actv rmng","NONE"
+
+"ENG_QUERY_5011"," 2 activate uz romng","NONE"
+
+"ENG_QUERY_5012"," 2 activate uz roaming","NONE"
+
+"ENG_QUERY_5013"," rmng chg","NONE"
+
+"ENG_QUERY_5014"," hw2 dactv8 rmng","NONE"
+
+"ENG_QUERY_5015"," 2 dactiv8 rming","NONE"
+
+"ENG_QUERY_5016"," 2 dactv8 romng","NONE"
+
+"ENG_QUERY_5017"," 2 dactiv8 romg","NONE"
+
+"ENG_QUERY_5018"," iz romg aplicbl 4 frwrd cl","NONE"
+
+"ENG_QUERY_5019"," romg aplicabl divrtd cal","NONE"
+
+"ENG_QUERY_5020"," iz romg aplcbl 4 fw cls","NONE"
+
+"ENG_QUERY_5021"," roamng applicbl fr divert8 cals","NONE"
+
+"ENG_QUERY_5022"," ppd crd rchrg","NONE"
+
+"ENG_QUERY_5023"," hw2 rchrg atl ppd crd","NONE"
+
+"ENG_QUERY_5024"," h2 gt blns enqry","NONE"
+
+"ENG_QUERY_5025"," hw2 gt cl bal enq","NONE"
+
+"ENG_QUERY_5026"," hw2 gt cl balns nqry","NONE"
+
+"ENG_QUERY_5027"," 2 gt cal balance inquiry","NONE"
+
+"ENG_QUERY_5028"," gprs service activ8d","NONE"
+
+"ENG_QUERY_5029"," 2 actv8 gprs","NONE"
+
+"ENG_QUERY_5030"," gprs actv8d","NONE"
+
+"ENG_QUERY_5031"," gprs seting mobile ph","NONE"
+
+"ENG_QUERY_5032"," shl st persn cmp laptp 2 gprs 2 cnt net","NONE"
+
+"ENG_QUERY_5033"," pc setting 4 using gprs cnnct 2 internet","NONE"
+
+"ENG_QUERY_5034"," pc setting 4 uzng gprs 2 cnnct net","NONE"
+
+"ENG_QUERY_5035"," pc setng 4 uzng gprs 2 cnct 2 inrnet","NONE"
+
+"ENG_QUERY_5036"," laptop setting 4 using gprs 2 cnct 2 internet","NONE"
+
+"ENG_QUERY_5037"," w@ monthly chrges 4 gprs","NONE"
+
+"ENG_QUERY_5038"," monthly chargs 4 gprs","NONE"
+
+"ENG_QUERY_5039"," monthly chargs gprs","NONE"
+
+"ENG_QUERY_5040"," mnthly chrgs gprs","NONE"
+
+"ENG_QUERY_5041"," mntly chargs 4 gprs","NONE"
+
+"ENG_QUERY_5042"," mntly chargs gprs","NONE"
+
+"ENG_QUERY_5043"," 2 blk mbl numbr","NONE"
+
+"ENG_QUERY_5044"," 2 blk mob nmbr","NONE"
+
+"ENG_QUERY_5045"," blok mob","NONE"
+
+"ENG_QUERY_5046"," 2 gt duplicate sim","NONE"
+
+"ENG_QUERY_5047"," gt dup sim","NONE"
+
+"ENG_QUERY_5048"," gt dup sim","NONE"
+
+"ENG_QUERY_5049"," gt duplic8 sim","NONE"
+
+"ENG_QUERY_5050"," gt duplc8 sim","NONE"
+
+"ENG_QUERY_5051"," 2 stp promo offer calls sms","NONE"
+
+"ENG_QUERY_5052"," 2 stp promo offer cals sms","NONE"
+
+"ENG_QUERY_5053"," 2 stp promotional ofr clls sms","NONE"
+
+"ENG_QUERY_5054"," 2 stp promotional offr clls sms","NONE"
+
+"ENG_QUERY_5055"," hw2 stp promo offer clls sms","NONE"
+
+"ENG_QUERY_5056"," airtel ppd ofrs","NONE"
+
+"ENG_QUERY_5057"," on9 ppd mbl rechrg","NONE"
+
+"ENG_QUERY_5058"," onlin ppd mob recharg","NONE"
+
+"ENG_QUERY_5059"," onlyn ppd mb rchrg","NONE"
+
+"ENG_QUERY_5060"," gud plc 2 buy 10s strng on9","NONE"
+
+"ENG_QUERY_5061"," 2 ht ovrhd sht 10s","NONE"
+
+"ENG_QUERY_5062"," whr 2 fnd sommr tenis cmp","NONE"
+
+"ENG_QUERY_5063"," whr 2 wtch wimbldn on9","NONE"
+
+"ENG_QUERY_5064"," 2 retrn fst srv","NONE"
+
+"ENG_QUERY_5065"," whr 2 dload frnch finale","NONE"
+
+"ENG_QUERY_5066"," whr 2 gt fre tenis trng","NONE"
+
+"ENG_QUERY_5067"," whu top 5 male tenis playrs od al time","NONE"
+
+"ENG_QUERY_5068"," hw2 wtch fnch opn on9","NONE"
+
+"ENG_QUERY_5069"," whr 2 gt chip wmbldn tkt","NONE"
+
+"ENG_QUERY_5070"," hwz 10s wrld rnk clcul8","NONE"
+
+"ENG_QUERY_5071"," brnd aprl andy rddk","NONE"
+
+"ENG_QUERY_5072"," bst strng 2 max cntrl","NONE"
+
+"ENG_QUERY_5073"," 2 hit 4hand slce","NONE"
+
+"ENG_QUERY_5074"," hu consdr bst tenis plyr al tym","NONE"
+
+"ENG_QUERY_5075"," ar pmp 4 rcing byke","NONE"
+
+"ENG_QUERY_5076"," bst begnnr rd cykle","NONE"
+
+"ENG_QUERY_5077"," cst 2 rplc cykl cbl","NONE"
+
+"ENG_QUERY_5078"," 2 buy gd mntn byk","NONE"
+
+"ENG_QUERY_5079"," whtz bst bik trlr dere","NONE"
+
+"ENG_QUERY_5080"," whr 2 buy clssc crusr bykes la","NONE"
+
+"ENG_QUERY_5081"," whr 2 gt byke chngng manual","NONE"
+
+"ENG_QUERY_5082"," gud tshrt cptn 4 bykng cmmnti","NONE"
+
+"ENG_QUERY_5083"," typ ar pmp reqd 4 rcng bike","NONE"
+
+"ENG_QUERY_5084"," whr 2 gt cul gazets 4 byke","NONE"
+
+"ENG_QUERY_5085"," ok 2 wash mntn byke disk braks wid hnd sop","NONE"
+
+"ENG_QUERY_5086"," hw2 fx byk brks","NONE"
+
+"ENG_QUERY_5087"," hw2 rechrg laptp whl ridng byke","NONE"
+
+"ENG_QUERY_5088"," lukng 4 prt 4 suspnsn frk","NONE"
+
+"ENG_QUERY_5089"," gud rd byks 4 excercising","NONE"
+
+"ENG_QUERY_5090"," bst brand 4 crusr byk","NONE"
+
+"ENG_QUERY_5091"," whr 2 byckl lck","NONE"
+
+"ENG_QUERY_5092"," fndng gud wrkout pln 4 runers","NONE"
+
+"ENG_QUERY_5093"," whr2 blnks trek spyks","NONE"
+
+"ENG_QUERY_5094"," wrld rcrd tym 4 rnng 1 myl","NONE"
+
+"ENG_QUERY_5095"," trn4 vrtcl marthon","NONE"
+
+"ENG_QUERY_5096"," whatz bst 2 incrse running spd","NONE"
+
+"ENG_QUERY_5097"," dus any1 hv marthon trng advce","NONE"
+
+"ENG_QUERY_5098"," rght wayz 2 strt rung progrm","NONE"
+
+"ENG_QUERY_5099"," wtng tym btwn etng rng","NONE"
+
+"ENG_QUERY_5100"," whr ronng grps 4 amatars","NONE"
+
+"ENG_QUERY_5101"," bst on9 rut planr 4 runing","NONE"
+
+"ENG_QUERY_5102"," whatz bst sprnt intrwl 2 brn fat","NONE"
+
+"ENG_QUERY_5103"," whr 2 lrn 2 jog","NONE"
+
+"ENG_QUERY_5104"," whtz cost gud tradmil","NONE"
+
+"ENG_QUERY_5105"," whtz ideal tym day 2 run","NONE"
+
+"ENG_QUERY_5106"," gud 2 warmup b4 runing","NONE"
+
+"ENG_QUERY_5107"," whtz fstst myl tym rcrd","NONE"
+
+"ENG_QUERY_5108"," advntg hang tecnik lng jmp","NONE"
+
+"ENG_QUERY_5109"," bst shus 4 rnng trdmil","NONE"
+
+"ENG_QUERY_5110"," whuz wrld bst tbl tenis plyr","NONE"
+
+"ENG_QUERY_5111"," nam >- hu hs 1 max gr@ slams","NONE"
+
+"ENG_QUERY_5112"," watz fastst blad w/o carbn ti al","NONE"
+
+"ENG_QUERY_5113"," watz prestrng 10s raquets","NONE"
+
+"ENG_QUERY_5114"," hws 10s ball md","NONE"
+
+"ENG_QUERY_5115"," mne claycort titles hs federer 1","NONE"
+
+"ENG_QUERY_5116"," watz diff btw midsize mid+ rqts","NONE"
+
+"ENG_QUERY_5117"," prps warin wrstb","NONE"
+
+"ENG_QUERY_5118"," whu md 1st titanium 10s racqt","NONE"
+
+"ENG_QUERY_5119"," lindsey davenport strtn playn tenis","NONE"
+
+"ENG_QUERY_5120"," 1st rus playa 2 hv gr@ slam vctry","NONE"
+
+"ENG_QUERY_5121"," w@ brs 10s balz uz tourneys","NONE"
+
+"ENG_QUERY_5122"," watz gud 10s wrkout rtne","NONE"
+
+"ENG_QUERY_5123"," w@ wz a1 10s match dis yr","NONE"
+
+"ENG_QUERY_5124"," whr2 gt drml8 sat 4my 10s rkt","NONE"
+
+"ENG_QUERY_5125"," who's 2nd bst playa grass bhnd federer","NONE"
+
+"ENG_QUERY_5126"," fre instructional 10s vids","NONE"
+
+"ENG_QUERY_5127"," country 10s originate frm","NONE"
+
+"ENG_QUERY_5128"," heat cauz 10s racket strings 2 break","NONE"
+
+"ENG_QUERY_5129"," whr ic gms rolnd garos www","NONE"
+
+"ENG_QUERY_5130"," watz proper tire inflation 4 adlt mntn bke","NONE"
+
+"ENG_QUERY_5131"," whr2 gt nu styrr tube 4ma 4k","NONE"
+
+"ENG_QUERY_5132"," mke bmx lytr","NONE"
+
+"ENG_QUERY_5133"," whr2 gt trkn devys 4my mountn bke","NONE"
+
+"ENG_QUERY_5134"," watz comfy bke seat","NONE"
+
+"ENG_QUERY_5135"," wt cpact 4 frestyl byk","NONE"
+
+"ENG_QUERY_5136"," h2 mke pdl bke fstr","NONE"
+
+"ENG_QUERY_5137"," whr fnd cart kit","NONE"
+
+"ENG_QUERY_5138"," h2 instl bke brk cbl","NONE"
+
+"ENG_QUERY_5139"," wch cmpni mks bst mntn byk","NONE"
+
+"ENG_QUERY_5140"," w@ shrt byk cld","NONE"
+
+"ENG_QUERY_5141"," watz a1 w3 4 bke accessories","NONE"
+
+"ENG_QUERY_5142"," whr d/l font trek bikes","NONE"
+
+"ENG_QUERY_5143"," lng 2r de france","NONE"
+
+"ENG_QUERY_5144"," der satellite radio avaiable 4 biking users mve","NONE"
+
+"ENG_QUERY_5145"," whr2 gt flshlyt datz pwrd bicycl","NONE"
+
+"ENG_QUERY_5146"," whr gd qb bicycls md","NONE"
+
+"ENG_QUERY_5147"," who's a1 distanc runna ll tym","NONE"
+
+"ENG_QUERY_5148"," gud runn shoz 4 hi arch","NONE"
+
+"ENG_QUERY_5149"," hw2 gt bk shape fst 4 rng","NONE"
+
+"ENG_QUERY_5150"," waz a1 breathn tekniq","NONE"
+
+"ENG_QUERY_5151"," h2 zug 4 upright marathon","NONE"
+
+"ENG_QUERY_5152"," whch w3 cud fnd rng fct","NONE"
+
+"ENG_QUERY_5153"," a1 shoz 2 buy 4 jogger hlp","NONE"
+
+"ENG_QUERY_5154"," bst rng shus 4 sprnt","NONE"
+
+"ENG_QUERY_5155"," brethn tekniks 4 crs cntry rns","NONE"
+
+"ENG_QUERY_5156"," wayz imprvng spd stmyna","NONE"
+
+"ENG_QUERY_5157"," dlng wid heat yl rng","NONE"
+
+"ENG_QUERY_5158"," hw2 stp hrtn ma hip yl rnng","NONE"
+
+"ENG_QUERY_5159"," lengthen stride","NONE"
+
+"ENG_QUERY_5160"," bst strng 2 max cntrl","NONE"
+
+"ENG_QUERY_5161"," 2 strk 4hand slce","NONE"
+
+"ENG_QUERY_5162"," hu regrd bst tenis plyr al tym","NONE"
+
+"ENG_QUERY_5163"," hu view bst tenis plyr al tym","NONE"
+
+"ENG_QUERY_5164"," whtz bst novc rd bcycl","NONE"
+
+"ENG_QUERY_5165"," cst 2 renw cykl cbl","NONE"
+
+"ENG_QUERY_5166"," 2 prchs gd mntn byk","NONE"
+
+"ENG_QUERY_5167"," hw2 repr byk brks","NONE"
+
+"ENG_QUERY_5168"," bst marq 4 crusr byk","NONE"
+
+"ENG_QUERY_5169"," gud rd byks 4 wrkout","NONE"
+
+"ENG_QUERY_5170"," whatz bst 2 gain rng spd","NONE"
+
+"ENG_QUERY_5171"," prce rplcng cykl cbl","NONE"
+
+"ENG_QUERY_5172"," whtz qkst myl tym rcrd","NONE"
+
+"ENG_QUERY_5173"," uz warin wrstb","NONE"
+
+"ENG_QUERY_5174"," fre eductnl 10s vdo","NONE"
+
+"ENG_QUERY_5175"," frm wch ntion 10s strtd","NONE"
+
+"ENG_QUERY_5176"," heat indus 10s racket strings 2 break","NONE"
+
+"ENG_QUERY_5177"," watz prpr tire expnsn 4 adlt mntn bke","NONE"
+
+"ENG_QUERY_5178"," hw2 countr quik srv","NONE"
+
+"ENG_QUERY_5179"," whr2 gt bik prts chngng","NONE"
+
+"ENG_QUERY_5180"," whr 2 gt cul gizmos 4 byke","NONE"
+
+"ENG_7001"," whn ws rajya sabha frmd?","NONE"
+
+"ENG_7002"," whn 1st meetng rajya sabha hld?","NONE"
+
+"ENG_7003"," whn ws th concl stts renmd 2 rjya sabh?","NONE"
+
+"ENG_7004"," ws 1st charmn rjy sba?","NONE"
+
+"ENG_7005"," wo ws th 1 dpt chrmn rjya sbha?","NONE"
+
+"ENG_7006"," th max strngth rjya sbha?","NONE"
+
+"ENG_7007"," actl strngth rjy saba?","NONE"
+
+"ENG_7008"," mny mmbrs evry stt ave rajya sabha?","NONE"
+
+"ENG_7009"," mny mmbers chsn frm unin tritoris?","NONE"
+
+"ENG_7010"," rajya sbha kaled prmnnt bdy?","NONE"
+
+"ENG_7011"," trm mmbr rajya sabha?","NONE"
+
+"ENG_7012"," qrm 2 cnsttute meetng rjy sbha?","NONE"
+
+"ENG_7013"," whch prty wd max mmbrs house?","NONE"
+
+"ENG_7014"," acts chairman rajya sabha?","NONE"
+
+"ENG_7015"," vce presdnt ind elctd?","NONE"
+
+"ENG_7016"," wt th trm offc vce-prsdnt ind?","NONE"
+
+"ENG_7017"," crrntly chrmn rjya sbha?","NONE"
+
+"ENG_7018"," dpty chrmn elcted?","NONE"
+
+"ENG_7019"," rspnsblts dpty chrmn?","NONE"
+
+"ENG_7020"," dpty chrm rite nw raj sabh?","NONE"
+
+"ENG_7021"," tks ovr prcdng rajya sabha whn bth chairman nd deputy chairman nt prsnt?","NONE"
+
+"ENG_7022"," crrntly whu ldr th hse?","NONE"
+
+"ENG_7023"," rspnsblts th leader hse?","NONE"
+
+"ENG_7024"," leader oppstn rite nw?","NONE"
+
+"ENG_7025"," scrtry gnrl rajya sabha fr nw?","NONE"
+
+"ENG_7026"," th scrtry gnrl appntd?","NONE"
+
+"ENG_7027"," hte rle secratary genarel?","NONE"
+
+"ENG_7028"," ar mmbrs raj saba elctd?","NONE"
+
+"ENG_7029"," req 2 bcome raj saba mber?","NONE"
+
+"ENG_7030"," shud membr brn frum skate frm whr hes elct 2 raj saba?","NONE"
+
+"ENG_7031"," raj saba nominated membrs?","NONE"
+
+"ENG_7032"," du nomanated mambr vote 4 prsdent vice presdnt elction?","NONE"
+
+"ENG_7033"," frst nominated woman candidate raj saba?","NONE"
+
+"ENG_7034"," nmnated membr rite nw raj sab?","NONE"
+
+"ENG_7035"," comon peple thr btw raj saba nd concil minit?rs","NONE"
+
+"ENG_7036"," lok saba prtcpate raj saba evnts?","NONE"
+
+"ENG_7037"," %tge woman mmbr lok saba 4 nw?","NONE"
+
+"ENG_7038"," whos youngst mmbr rahj saba?","NONE"
+
+"ENG_7039"," eldst raj sbh membr?","NONE"
+
+"ENG_7040"," serving membr raj saba?","NONE"
+
+"ENG_7041"," mmbr avng longst lgsltv exp raj saba prsnt tme?","NONE"
+
+"ENG_7042"," decids 2 rmve membr frm raj saba?","NONE"
+
+"ENG_7043"," thr intrstn unque pwr raj saba?","NONE"
+
+"ENG_7044"," relationahp bw raj saba lok saba?","NONE"
+
+"ENG_7045"," ny deadlok btw 2 house pssble?","NONE"
+
+"ENG_7046"," 2 slv deadlok btwn 2 houses?","NONE"
+
+"ENG_7047"," mny jnt sitin lok raj saba hppnd tl nw?","NONE"
+
+"ENG_7048"," pwers raj saba mny bll?","NONE"
+
+"ENG_7049"," diff catgry prlment comity raj saba?","NONE"
+
+"ENG_7050"," watz adhoc comity?","NONE"
+
+"ENG_7051"," stndng comity?","NONE"
+
+"ENG_7052"," drsc?","NONE"
+
+"ENG_7053"," mny drsc cnstuted til nw?","NONE"
+
+"ENG_7054"," wnt 2 knw al functns drsc?","NONE"
+
+"ENG_7055"," mny drsc undr lok nd raj saba?","NONE"
+
+"ENG_7056"," wch drsc nd dprtmnts undr raj sabha cntrl?","NONE"
+
+"ENG_7057"," tel dtls chrmnshp comities raj saha?","NONE"
+
+"ENG_7058"," functns comity ethcs?","NONE"
+
+"ENG_7059"," comity imps snctns ethcs?","NONE"
+
+"ENG_7060"," thr ny cde cndct statd comity ethcs whch raj saba alos took?","NONE"
+
+"ENG_7061"," prsnce rajya sabha (dclrtn assts nd libilitis) rls, 2004, wt info req 2 furnshd mmbrs 2 chrmn, rajya sabha?","NONE"
+
+"ENG_7062"," rd pcnry intrsts nd th ingrdnts throf, idntfd th commtt ethcs, rspct whch info 2 frnshd mmbrs?","NONE"
+
+"ENG_7063"," whthr pcnry intrsts mmbrs outsd th contr cm undr prvw?","NONE"
+
+"ENG_7064"," bill?","NONE"
+
+"ENG_7065"," tel typs bills?","NONE"
+
+"ENG_7066"," diff btw bill nd act?","NONE"
+
+"ENG_7067"," stps thr pasng bill?","NONE"
+
+"ENG_7068"," chrmn vote?","NONE"
+
+"ENG_7069"," votin mmthds raj saba has?","NONE"
+
+"ENG_7070"," effcts dsslutns lok saba busns raj saba?","NONE"
+
+"ENG_7071"," cllin atntn?","NONE"
+
+"ENG_7072"," watz spl mntion?","NONE"
+
+"ENG_7073"," watz motion?","NONE"
+
+"ENG_7074"," typs motin?","NONE"
+
+"ENG_7075"," watz n-dy-yt-nmd-mtn?","NONE"
+
+"ENG_7076"," watz resoltn?","NONE"
+
+"ENG_7077"," watz presidnt addr?","NONE"
+
+"ENG_7078"," watz pnt ordr?","NONE"
+
+"ENG_7079"," watz dlatry mtion?","NONE"
+
+"ENG_7080"," watz shrt drtn discsn?","NONE"
+
+"ENG_7081"," 2 raj saba?","NONE"
+
+"ENG_7082"," str nd unstr q?","NONE"
+
+"ENG_7083"," decides admsblty ques?","NONE"
+
+"ENG_7084"," watz totl que day?","NONE"
+
+"ENG_7085"," whtz prlmntary prevaligs?","NONE"
+
+"ENG_7086"," prlmntary prevaligs cdfd ind?","NONE"
+
+"ENG_7087"," watz diff btwn brch pravilig nd cntpt huse?","NONE"
+
+"ENG_7088"," wtz prcdr rgrdng qustn prvlg?","NONE"
+
+"ENG_7089"," prcdngs rjy sbh tlvsd?","NONE"
+
+"ENG_7090"," whthr fnctnng rjy sbh sacratereat cums undr prvw th rght 2 infrmtn act, 2005?","NONE"
+
+"ENG_7091"," gve dtls persons contacted?","NONE"
+
+"ENG_7092"," whtz prlmntry frm? nw, mny frms thr?","NONE"
+
+"ENG_7093"," hwz frms dstnct 4m th prlmntry cmts?","NONE"
+
+"ENG_7094"," 2 gt info mmbr rajya sabha?","NONE"
+
+"ENG_7095"," 2 cntct mmbr rajya sbh?","NONE"
+
+"ENG_7096"," 2 gt info sessions rjay sbha?","NONE"
+
+"ENG_7097"," rajya sabha wbst avlble hndi?","NONE"
+
+"ENG_7098"," mntns th rjy sbh wbst nd snd fdbck?","NONE"
+
+"ENG_55x"," natnal flwr italy","GK"
+
+"ENG_56x"," whts chinas natnl flowr","GK"
+
+"ENG_57x"," whr prmntnt scrtrt saarc located","GK"
+
+"ENG_58x"," whts gateway 2 gulf iran","GK"
+
+"ENG_59x"," whr dd indusstrl revltn bgn","GK"
+
+"ENG_60x"," whn world envrnmet day celeb","GK"
+
+"ENG_63x"," whch cntry wrlds lrgst tin producr","GK"
+
+"ENG_64x"," whch cntry clld lnd rising sun","GK"
+
+"ENG_78x"," uplink dwnlnk freqs","TELECOMMUNICATION"
+
+"ENG_89x"," apply bsnl conn","TELECOMMUNICATION"
+
+"ENG_96x"," hppns irctcmble lkd","INDIAN"
+
+"ENG_99x"," mke pymnts etkts","INDIAN"
+
+"ENG_103x"," advtges isdn","TELECOMMUNICATION"
+
+"ENG_104x"," nd seperte line isdn","TELECOMMUNICATION"
+
+"ENG_105x"," 2 chnge 4m 1 data rate 2 anthr","TELECOMMUNICATION"
+
+"ENG_135x"," gt bsnl conn","TELECOMMUNICATION"
+
+"ENG_136x"," hlp gttng bsnl connx","TELECOMMUNICATION"
+
+"ENG_137x"," gt bsnl connxn","TELECOMMUNICATION"
+
+"ENG_138x"," pl tl 2 gt bsnl connctn","TELECOMMUNICATION"
+
+"ENG_139x"," procdure 2 apply bsnl conncgtion","TELECOMMUNICATION"
+
+"ENG_140x"," hppsn 2 telcom conn shft houses","TELECOMMUNICATION"
+
+"ENG_141x"," mn upload","TELECOMMUNICATION"
+
+"ENG_142x"," meant upld","TELECOMMUNICATION"
+
+"ENG_159x"," csp mean?","NONE"
+
+"ENG_163x"," ndded fot trnsmttng tv lng distnces","TELECOMMUNICATION"
+
+"ENG_164x"," whch sgnl decoding encoding","TELECOMMUNICATION"
+
+"ENG_165x"," adsl fastr thn dial cpnns?","TELECOMMUNICATION"
+
+"ENG_170x"," whts main exprt jamica","GK"
+
+"ENG_171x"," whch white elphnt","GK"
+
+"ENG_172x"," ceo ggle","GK"
+
+"ENG_173x"," wch cntry iran sign nuc deal wd","GK"
+
+"ENG_216x"," 1st indin 2 visit space","GK"
+
+"ENG_242x"," whch univ toppd forbes billionar list","GK"
+
+"ENG_243x"," whr volanic mtn mt vesuvius lctd","NONE"
+
+"ENG_244x"," ws 1st indian navy vice admirl","GK"
+
+"ENG_255x"," actvt irctcmbl","INDIAN"
+
+"ENG_256x"," tell ppl abt irctc mble","INDIAN"
+
+"ENG_270x"," lasr stimultn wk","TELECOMMUNICATION"
+
+"ENG_271x"," ds line sght wrk fr 3050k aft dat","TELECOMMUNICATION"
+
+"ENG_272x"," fm brdcst prefrd fr music/audio trnsmsion","TELECOMMUNICATION"
+
+"ENG_274x"," ethernet","TELECOMMUNICATION"
+
+"ENG_295x"," whch anml hs gt bld","GK"
+
+"ENG_296x"," whch lngst rvr wrld","GK"
+
+"ENG_297x"," whch hghst mtn wrld","GK"
+
+"ENG_298x"," whch lrgst desrt wrld","GK"
+
+"ENG_299x"," whts nme lrgst ocrn wrld","GK"
+
+"ENG_310x"," advtgs usg irctc mbl?","INDIAN"
+
+"ENG_311x"," srves reltd irctc mbl","INDIAN"
+
+"ENG_312x"," steps usng irctc mbl","INDIAN"
+
+"ENG_313x"," bk tkts usng irctc mbl","INDIAN"
+
+"ENG_314x"," psble cncl tkts using irctc mbl","INDIAN"
+
+"ENG_325x"," hot telecom's privcy polcis","TELECOMMUNICATION"
+
+"ENG_326x"," srvs prvdd hot telcom","TELECOMMUNICATION"
+
+"ENG_327x"," mastr control fcilty","TELECOMMUNICATION"
+
+"ENG_328x"," whts diff btwn crictcl freq crticl angle","TELECOMMUNICATION"
+
+"ENG_329x"," spch reprodcd recvr","TELECOMMUNICATION"
+
+"ENG_351x"," bytes mb","GK"
+
+"ENG_352x"," whch country hs largst land","GK"
+
+"ENG_353x"," whc muslim kingdom kerela","GK"
+
+"ENG_365x"," mny itkts stre irctcmbl","INDIAN"
+
+"ENG_366x"," shd synch irctcmbl","INDIAN"
+
+"ENG_367x"," actvt irctcmbl","INDIAN"
+
+"ENG_369x"," credt card info usd safe irctc mbl","INDIAN"
+
+"ENG_380x"," dsdvtgs wrld spce","TELECOMMUNICATION"
+
+"ENG_383x"," brdct tv signls rnags","TELECOMMUNICATION"
+
+"ENG_384x"," reqrd fr dplx comminc using 2 wirer circkt","TELECOMMUNICATION"
+
+"ENG_391x"," hppns lose mob","INDIAN"
+
+"ENG_392x"," irctc mobile","INDIAN"
+
+"ENG_401x"," whch bggst desrt wrld","GK"
+
+"ENG_402x"," whts lngth eng chnnl","GK"
+
+"ENG_403x"," ds untd ntns stnd 4","GK"
+
+"ENG_404x"," invntd lght bulb","GK"
+
+"ENG_405x"," whch lngst rvr wrld","GK"
+
+"ENG_426x"," whr gt acrobat/winzip","TELECOMMUNICATION"
+
+"ENG_427x"," tv trans use? am freq modultn?","TELECOMMUNICATION"
+
+"ENG_428x"," ds data trnsmsn recpt tke plce using opticl comm","TELECOMMUNICATION"
+
+"ENG_429x"," advtgs isdn","TELECOMMUNICATION"
+
+"ENG_430x"," benift adsl?","TELECOMMUNICATION"
+
+"ENG_446x"," thr anml tht hs white bld? yes, tl name","GK"
+
+"ENG_447x"," whch rvr carris max amt wtr sea","GK"
+
+"ENG_448x"," whts fullform uno","GK"
+
+"ENG_449x"," nyc poplry city of?","GK"
+
+"ENG_455x"," irctc 4 rly tktg","INDIAN"
+
+"ENG_459x"," whn pnr aft mkg paymnt","INDIAN"
+
+"ENG_465x"," type pymnet mths telcm","TELECOMMUNICATION"
+
+"ENG_466x"," thr advtgs using isdn","TELECOMMUNICATION"
+
+"ENG_467x"," nd dedictd line adsl","TELECOMMUNICATION"
+
+"ENG_468x"," poss chnge 4m 1 data pln anthr brdbnd","TELECOMMUNICATION"
+
+"ENG_469x"," spch genrtd recver","TELECOMMUNICATION"
+
+"ENGLISH_657x"," nme fst pm india","GK"
+
+"ENGLISH_685x"," 1st generl free india","GK"
+
+"ENGLISH_686x"," ws 1st indian pm 2 rsgn wtht completeing term","GK"
+
+"ENGLISH_689x"," whch cntry producs lrgst amt dimnds wrld","GK"
+
+"ENGLISH_692x"," whch contry 1st hosted mdrn olympcs","GK"
+

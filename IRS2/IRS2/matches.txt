@@ -1,0 +1,83 @@
+"ENG_55","nat flowr of Italy",3
+"ENG_56","natl flower of china",3
+"ENG_57","perm sec of saarc loc",3
+"ENG_58","whch is the gateway of the glf of iran",3
+"ENG_59","whr did the industrl rev take place 1st",3
+"ENG_60","ven is wrld environ day",3
+"ENG_61","wats the natl flower of brits",3
+"ENG_62","wich s asia's lrgest shppin mall",3
+"ENG_63","whos the largets tin producr",3
+"ENG_64","which country is calld land of risin sun",3
+"ENG_170","wht do jamaica exprt mainly",3
+"ENG_171","whch is lnd f whte elephnts",3
+"ENG_172","who iz CEO f google",3
+"ENG_173","who sgnd nuclr deal wid iran",3
+"ENG_174","which country prdcs 1/3 teak f wrld",3
+"ENG_216","who s d frst Indian 2 go 2 space",3
+"ENG_240","country wid highest popultion density",3
+"ENG_241","whoz the assasinator of john f kennedy",3
+"ENG_242","topper of forbes billionaire university lst",3
+"ENG_244","name of 1st indian navy chief vice admirl",3
+"ENG_295","vich animal hs d white blood?",3
+"ENG_296","vich is d longest river in d world?",3
+"ENG_297","vich is d highgest montane in d world?",3
+"ENG_298","vich is d biggst desrt in d world?",3
+"ENG_299","d largest ocean in d world?",3
+"ENG_351","hw mny byts in a megabyte",3
+"ENG_352","ehch cntry hs the lrgst area of land",3
+"ENG_353","the only mslm kingdm in kerala was",3
+"ENG_401","biggst desrt in d wrld is?",3
+"ENG_402","len of englsh chanl is?",3
+"ENG_403","uno?",3
+"ENG_404","inventr f bulb?",3
+"ENG_405","longst river in d wrld?",3
+"ENG_446","Tl me d nme of Animl huz blod is whit?",3
+"ENG_447","D rivr wich caris max qntity of water in2 d sea is?",3
+"ENG_448","UNO stnds 4",3
+"ENG_449","NY is poplrly knwn as d city of",3
+"ENGLISH_657","who was the 1st PM of india",3
+"ENGLISH_663","did einstein know hw 2 swim",3
+"ENGLISH_669","when did the channle tunnel in eruope open?",3
+"ENGLISH_670","When did Margert Thatcher become PM?",3
+"ENGLISH_681","hw many blk keys does a piano have?",3
+"ENGLISH_685","who was the 1st govenro geneal of free india",3
+"ENGLISH_686","Who was the first indian PM to resign without completeing his full term",3
+"ENGLISH_689","whch is the worlds largets diamond producing country",3
+"ENGLISH_692","whch was the 1st country to host the modern olympics",3
+"ENG_55x","wht is the natnal flwr of italy",3
+"ENG_56x","whts chinas natnl flowr",3
+"ENG_57x","whr is the prmntnt scrtrt of saarc located",3
+"ENG_58x","whts the gateway 2 d gulf of iran",3
+"ENG_59x","whr dd the indusstrl revltn bgn",3
+"ENG_60x","whn is world envrnmet day celeb",3
+"ENG_63x","whch cntry is wrlds lrgst tin producr",3
+"ENG_64x","whch cntry is clld the lnd of d rising sun",3
+"ENG_170x","whts d main exprt of jamica",3
+"ENG_171x","whch is white elphnt",3
+"ENG_172x","who is d CEO of ggle",3
+"ENG_173x","wch cntry did iran sign d nuc deal wd",3
+"ENG_216x","who was d 1st indin 2 visit space",3
+"ENG_242x","whch univ toppd d forbes billionar list",3
+"ENG_244x","who ws d 1st indian navy vice admirl",3
+"ENG_295x","whch anml hs gt wht bld",3
+"ENG_296x","whch is d lngst rvr in d wrld",3
+"ENG_297x","whch is d hghst mtn in d wrld",3
+"ENG_298x","whch is d lrgst desrt n d wrld",3
+"ENG_299x","whts d nme of d lrgst ocrn in d wrld",3
+"ENG_351x","hw many bytes in an MB",3
+"ENG_352x","whch country hs largst land are",3
+"ENG_353x","whc was d only muslim kingdom in kerela",3
+"ENG_401x","whch is d bggst desrt in d wrld",3
+"ENG_402x","whts d lngth of eng chnnl",3
+"ENG_403x","wht ds untd ntns stnd 4",3
+"ENG_404x","who invntd d lght bulb",3
+"ENG_405x","whch is d lngst rvr in d wrld",3
+"ENG_446x","is thr any anml tht hs white bld? if yes, cn u tl me d name",3
+"ENG_447x","whch rvr carris max amt of wtr into d sea",3
+"ENG_448x","whts d fullform of uno",3
+"ENG_449x","NYC is poplry known as the city of?",3
+"ENGLISH_657x","nme d fst PM of india",3
+"ENGLISH_685x","the 1st g generl of free india was",3
+"ENGLISH_686x","who ws d 1st indian PM 2 rsgn wtht completeing his full term",3
+"ENGLISH_689x","whch cntry producs d lrgst amt of dimnds n d wrld",3
+"ENGLISH_692x","whch contry 1st hosted d mdrn olympcs",3
